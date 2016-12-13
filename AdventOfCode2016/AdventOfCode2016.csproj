@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Day10\Solve10.cs" />
+    <Compile Include="Day12\Solve12.cs" />
+    <Compile Include="Day13\Solve13.cs" />
     <Compile Include="Day1\Solve12.cs" />
     <Compile Include="Day1\Solve11.cs" />
     <Compile Include="Day2\Solve22.cs" />
@@ -58,6 +61,9 @@
     <Compile Include="Day6\Solve61.cs" />
     <Compile Include="Day7\Solve72.cs" />
     <Compile Include="Day7\Solve71.cs" />
+    <Compile Include="Day8\Solve8.cs" />
+    <Compile Include="Day9\Solve92.cs" />
+    <Compile Include="Day9\Solve91.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -65,6 +71,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Day10\input10.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Day12\input12.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Day1\input1.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -81,6 +93,12 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Day7\input7.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Day8\input8.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Day9\input9.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
