@@ -24,7 +24,6 @@ namespace AdventOfCode2016.Day10
         {
             _chips.Add(chipValue);
         }
-
     }
 
     class Bot : ChipHolder

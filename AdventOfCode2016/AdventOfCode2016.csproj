@@ -45,8 +45,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Day10\Solve10.cs" />
+    <Compile Include="Day11\Solve11.cs" />
     <Compile Include="Day12\Solve12.cs" />
     <Compile Include="Day13\Solve13.cs" />
+    <Compile Include="Day14\Solve14.cs" />
+    <Compile Include="Day15\Solve15.cs" />
+    <Compile Include="Day16\Solve16.cs" />
+    <Compile Include="Day17\Solve17.cs" />
+    <Compile Include="Day18\Solve18.cs" />
     <Compile Include="Day1\Solve12.cs" />
     <Compile Include="Day1\Solve11.cs" />
     <Compile Include="Day2\Solve22.cs" />
@@ -74,7 +80,13 @@
     <Content Include="Day10\input10.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Day11\input11.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Day12\input12.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Day15\input15.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Day1\input1.txt">
