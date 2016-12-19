@@ -53,6 +53,7 @@
     <Compile Include="Day16\Solve16.cs" />
     <Compile Include="Day17\Solve17.cs" />
     <Compile Include="Day18\Solve18.cs" />
+    <Compile Include="Day19\Solve19.cs" />
     <Compile Include="Day1\Solve12.cs" />
     <Compile Include="Day1\Solve11.cs" />
     <Compile Include="Day2\Solve22.cs" />
