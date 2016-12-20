@@ -56,6 +56,7 @@
     <Compile Include="Day19\Solve19.cs" />
     <Compile Include="Day1\Solve12.cs" />
     <Compile Include="Day1\Solve11.cs" />
+    <Compile Include="Day20\Solve20.cs" />
     <Compile Include="Day2\Solve22.cs" />
     <Compile Include="Day2\Solve21.cs" />
     <Compile Include="Day3\Solve32.cs" />
@@ -91,6 +92,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Day1\input1.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Day20\input20.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Day2\input2.txt">
