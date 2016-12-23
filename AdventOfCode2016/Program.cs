@@ -10,7 +10,7 @@ namespace AdventOfCode2016
     {
         static void Main(string[] args)
         {
-            Day21.Solve21.Solve();
+            Day22.Solve22.Solve();
             Console.ReadLine();
         }
     }
